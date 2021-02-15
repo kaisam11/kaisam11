@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hrithik Sinha
 - 👀 I’m interested in ...web development, anime, drawing, and many more
-- 🌱 I’m currently learning ...Full stack web developing & UX UI design
+- 🌱 I’m currently learning ...Full stack web development & UX UI design
 - 📫 How to reach me ...linkedin.com/in/hrithiksinha or hrithiksinha17@gmail.com
 
 <!---
