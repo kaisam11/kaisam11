@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hrithik Sinha
 - 👀 I’m interested in web development and design
-- 🌱 I’m currently learning Front End web development & UX UI design
+- 🌱 I’m currently learning Front End web development & design
 - 📫 How to reach me : linkedin.com/in/hrithiksinha or hrithiksinha17@gmail.com
 
 <!---
