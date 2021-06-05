@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hrithik Sinha
-- 👀 I’m interested in Anime and TV series
+- 👀 I’m interested in Anime, TV series & Football
 - 🌱 I’m currently learning Front End web development & design
 - 📫 How to reach me : hrithiksinha17@gmail.com
 
