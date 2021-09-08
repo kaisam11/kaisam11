@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hrithik Sinha
 - 👀 I’m interested in Anime, TV series & Football
-- 🌱 I’m currently learning Front End web development & design
+- 🌱 I’m currently learning Front-End Web Development & UX/UI Design
 - 📫 How to reach me : hrithiksinha17@gmail.com
 
 <!---
